@@ -11,6 +11,10 @@
 ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat)
 
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（22自动化）-gold)
+![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat)
+
 ![Static Badge](https://img.shields.io/badge/总学时56-gold)
 ![Static Badge](https://img.shields.io/badge/讲课学时-56-wheat)
 
@@ -27,14 +31,13 @@
 - 清华大学华成英主编，模拟电子技术基础学习辅导与习题解答，高等教育出版社。
 - Robert L. Boylestad等著，李立华等译. 模拟电子技术（第九版），电子工业出版社。
 
-（由于版权问题，教材等各类电子书暂时从OpenAuto中 下线）
-
 ## 授课教师
 
 - 毕淑娥
-
+  - 每节课都会点同学回答问题（相当于考勤）
+  - 念 PPT，比较无聊
+  - 布置作业均来自教材课后习题
 - 谷雨
-
 
 ## 学习建议
 
@@ -42,8 +45,8 @@
 
 以下这些网课对于学习很有帮助：
 
-1. [模拟电子技术基础 上交大 郑益慧主讲](https://www.bilibili.com/video/BV1Gt411b7Zq/?spm_id_from=333.337.search-card.all.click)
-2. [华成英 - 模拟电子技术基础](https://www.bilibili.com/video/BV19s411a7KL/?spm_id_from=333.337.search-card.all.click)
+1. [模拟电子技术基础 上交大 郑益慧主讲](https://www.bilibili.com/video/BV1Gt411b7Zq)
+2. [华成英 - 模拟电子技术基础](https://www.bilibili.com/video/BV19s411a7KL)
 
 ## 关于考试
 > by [@Oliver Wu](https://github.com/OliverWu515), 2023.12
