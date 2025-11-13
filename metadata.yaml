@@ -1,0 +1,165 @@
+ID: "EE1007"
+SimilarID: []
+Name: "模拟电子技术基础"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["通信", "电气", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["电信", "电气", "通信（第二学位）", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["自动化", "电气", "通信", "通信（第二学位）", "光电"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["电气", "通信", "通信（第二学位）", "光电", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "80"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["通信", "光电", "电气", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "80"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
+
+  - Major:
+      - Year: "2024_2025"
+        Name: []
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE1007"
+    CourseName: "模拟电子技术基础"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "80"
+    CourseHourComposition:
+      - Name: "讲课学时"
+        Hour: "56"
