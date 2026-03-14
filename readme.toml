@@ -48,7 +48,7 @@ content = """
 """
 author = [
   { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" },
-  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-12" }
+  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-12" },
 ]
 
 
@@ -72,4 +72,3 @@ content = """
 以下资料中的《模电笔记1》来自“自动化学习交流群”，但我们未能与原作者取得联系。如果您是这份笔记的作者，请联系我们，我们将会标注你的名字和版权信息，谢谢！
 """
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
-
