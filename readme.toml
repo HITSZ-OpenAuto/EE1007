@@ -6,28 +6,26 @@ description = """
 注意，模拟电子技术实验（[EE1008](https://hoa.moe/docs/sophomore-spring/ee1008/)）是独立设课。
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "毕淑娥"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 每节课都会点同学回答问题（相当于考勤）。
 念 PPT，比较无聊。
 布置作业均来自教材课后习题。
 """
-
-[[lecturers]]
+[[lecturers.items]]
 name = "谷雨"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 会有随堂小测，现场做题。
 会用幻灯片，适当结合板书，对于题目的做法讲解细致。
 能把魔法电路的魔法原理清楚明白地让绝大多数同学能听懂，定性定量结合，风格类似上交大郑益慧。
 而且老师上课活力十足，绝对不会无聊。
 """
-
-
 [[sections]]
 title = "教材与线上资源"
 
