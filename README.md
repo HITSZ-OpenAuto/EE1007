@@ -1,10 +1,5 @@
 # EE1007 - 模拟电子技术基础
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试80%](https://img.shields.io/badge/期末考试-80%25-wheat)
 
 注意，模拟电子技术实验（[EE1008](https://hoa.moe/docs/sophomore-spring/ee1008/)）是独立设课。
 
