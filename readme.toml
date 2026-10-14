@@ -1,12 +1,10 @@
 course_name = "模拟电子技术基础"
-repo_type = "normal"
 course_code = "EE1007"
-
-description = """
-注意，模拟电子技术实验（[EE1008](https://hoa.moe/docs/sophomore-spring/ee1008/)）是独立设课。
-"""
+repo_type = "normal"
+description = "注意，模拟电子技术实验（[EE1008](https://hoa.moe/docs/sophomore-spring/ee1008/)）是独立设课。"
 
 [lecturers]
+
 [[lecturers.items]]
 name = "毕淑娥"
 
@@ -16,6 +14,7 @@ content = """
 念 PPT，比较无聊。
 布置作业均来自教材课后习题。
 """
+
 [[lecturers.items]]
 name = "谷雨"
 
@@ -26,6 +25,7 @@ content = """
 能把魔法电路的魔法原理清楚明白地让绝大多数同学能听懂，定性定量结合，风格类似上交大郑益慧。
 而且老师上课活力十足，绝对不会无聊。
 """
+
 [[sections]]
 title = "教材与线上资源"
 
@@ -51,7 +51,6 @@ author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-12" },
 ]
 
-
 [[sections]]
 title = "关于考试"
 
@@ -61,7 +60,6 @@ content = """
 - 如果需要锻炼设计和搭建电路的经验，可以在学习数字电子技术后报名电子设计大赛。
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-12" }
-
 
 [[sections.items]]
 content = """
